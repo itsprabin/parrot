@@ -89,9 +89,9 @@ function sendGenericMessage(sender) {
             "payload": {
                 "template_type": "generic",
                 "elements": [{
-                    "title": "Ai Chat Bot Communities",
+                    "title": "Jhol Momo",
                     "subtitle": "Communities to Follow",
-                    "image_url": "http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/chatbot-930x659.jpg",
+                    "image_url": "https://raw.githubusercontent.com/itsprabin/parrot/master/choila.png",
                     "buttons": [{
                         "type": "web_url",
                         "url": "https://www.facebook.com/groups/aichatbots/",
